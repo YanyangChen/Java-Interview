@@ -97,6 +97,6 @@ Java 知识点，继续完善中xx。
 
 # ### 联系作者
 
-# > crossoverJie#gmail.com
+<> crossoverJie#gmail.com
 
-# >![](https://ws2.sinaimg.cn/large/006tKfTcly1fsa01u7ro1j30gs0howfq.jpg)
+<>![](https://ws2.sinaimg.cn/large/006tKfTcly1fsa01u7ro1j30gs0howfq.jpg)
